@@ -182,7 +182,7 @@
 }
     /*Seccion heroe css */
     .main {
-        background-color: #6D520F;
+        background-color: #0096A3;
     }
     .main__container{
         display: grid;
@@ -191,7 +191,7 @@
         justify-self: center;
         margin: 0 auto;
         height: 90vh;
-        background-color: #6D520F;
+        background-color: #0096A3;
         z-index: 1;
         width: 100%;
         max-width: 1300px;
@@ -282,18 +282,5 @@
         margin-top: 2rem;
     }
 }
-@media screen and (max-width: 480px) {
 
-    .main__content h1{
-        font-size: 2rem;
-        margin-top: 3rem;
-    }
-    .main__content h2{
-        font-size: 2rem;
-        margin-top: 2rem;
-    }
-    .main__btn{
-        padding: 12px 36px;
-        margin: 2.5rem 0;
-    }
-}
+
